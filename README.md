@@ -30,4 +30,12 @@ This github repository contains a collection of direct links to DFIR and IR rela
         </ul>
     </ul>
 </details>
-
+<details open>
+    <summary><b>E-mail Analyzer</b></summary>
+    <ul>
+        <ul>
+           <li><b><a href="https://toolbox.googleapps.com/apps/messageheader/analyzeheader">Google Admin Toolbox Messageheader</a></b><i></i></li>
+           <li><b><a href="https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx">MX Toolbox Email Header Analyzer</a></b><i></i></li>
+        </ul>
+    </ul>
+</details>
