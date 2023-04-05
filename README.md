@@ -40,10 +40,12 @@ This github repository contains a collection of direct links to DFIR and IR rela
     </ul>
 </details>
 <details open>
-    <summary><b>IP Analyzer</b></summary>
+    <summary><b>IP/URL Analyzer</b></summary>
     <ul>
         <ul>
            <li><b><a href="https://viz.greynoise.io">Greynoise</a></b><i></i></li>
-           </ul>
+           <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
+           <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
+         </ul>
     </ul>
 </details>
