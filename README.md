@@ -54,7 +54,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
     <summary><b>File/Hash</b></summary>
     <ul>
         <ul>
-           <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
+           <li><b><a href="https://analyze.intezer.com/" target="_blank">Intezer</a></b><i></i></li>
            <li><b><a href="https://app.any.run/">ANY.RUN</a></b><i></i></li>
            <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>       
            <li><b><a href="https://www.filescan.io/scan">Filescan.io</a></b><i></i></li>
