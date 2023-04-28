@@ -46,6 +46,21 @@ This github repository contains a collection of direct links to DFIR and IR rela
            <li><b><a href="https://viz.greynoise.io">Greynoise</a></b><i></i></li>
            <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
            <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
+           <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>
+         </ul>
+    </ul>
+</details>
+<details open>
+    <summary><b>File/Hash</b></summary>
+    <ul>
+        <ul>
+           <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
+           <li><b><a href="https://app.any.run/">ANY.RUN</a></b><i></i></li>
+           <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>       
+           <li><b><a href="https://www.filescan.io/scan">Filescan.io</a></b><i></i></li>
+           <li><b><a href="https://otx.alienvault.com/browse/global/indicators">Alienvault OTX</a></b><i></i></li>
+           <li><b><a href="https://www.hybrid-analysis.com/">Hybrid Analysis</a></b><i></i></li>
+           <li><b><a href="https://www.joesandbox.com/#windows">JOE Sandbox</a></b><i></i></li>
          </ul>
     </ul>
 </details>
