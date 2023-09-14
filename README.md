@@ -47,6 +47,8 @@ This github repository contains a collection of direct links to DFIR and IR rela
            <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
            <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
            <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>
+           <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
+           <li><b><a href="https://www.shodan.io/">Shodan</a></b><i></i></li>
          </ul>
     </ul>
 </details>
@@ -54,6 +56,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
     <summary><b>IP/NET</b></summary>
     <ul>
         <ul>
+            <li><b><a href="https://www.iana.org/whois">IANA Whois</a></b><i></i></li>
             <li><b><a href="https://hackertarget.com/ip-tools/">Hackertarget IP-tools</a></b><i></i></li>
             <li><b><a href="https://lg.telia.net/">Telia Looking Glass</a></b><i> [ASN etc]</i></li>
             <li><b><a href="https://viewdns.info/">viewdns.info</a></b><i> [Multiple tools]</i></li>
