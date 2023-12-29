@@ -43,11 +43,13 @@ This github repository contains a collection of direct links to DFIR and IR rela
     <summary><b>IP/URL Analyzer</b></summary>
     <ul>
         <ul>
-           <li><b><a href="https://viz.greynoise.io">Greynoise</a></b><i></i></li>
-           <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
+            <li><b><a href="https://talosintelligence.com/reputation_center/">Talos</a></b><i></i></li>
+            <li><b><a href="https://viz.greynoise.io">Greynoise</a></b><i></i></li>
+            <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
            <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
            <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>
-           <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
+            <li><b><a href="https://getodin.com/search/hosts">Odin</a></b><i></i></li>
+            <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
            <li><b><a href="https://www.shodan.io/">Shodan</a></b><i></i></li>
          </ul>
     </ul>
@@ -75,6 +77,15 @@ This github repository contains a collection of direct links to DFIR and IR rela
 </details>
 
 <details open>
+    <summary><b>Azure</b></summary>
+    <ul>
+        <ul>
+        <li><b><a href="https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-resourcetype">Azure Monitor Logs table reference organized by resource type</a></b><i></i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
     <summary><b>File/Hash</b></summary>
     <ul>
         <ul>
@@ -85,6 +96,16 @@ This github repository contains a collection of direct links to DFIR and IR rela
            <li><b><a href="https://otx.alienvault.com/browse/global/indicators">Alienvault OTX</a></b><i></i></li>
            <li><b><a href="https://www.hybrid-analysis.com/">Hybrid Analysis</a></b><i></i></li>
            <li><b><a href="https://www.joesandbox.com/#windows">JOE Sandbox</a></b><i></i></li>
+           <li><b><a href="https://www.winitor.com/download">pestudio</a></b><i></i></li>
+         </ul>
+    </ul>
+</details>
+<details open>
+    <summary><b>Logs</b></summary>
+    <ul>
+        <ul>
+           <li><b><a href="https://github.com/YosfanEilay/AuthLogParser" target="_blank">AuthLogParser [Linux]</a></b><i></i></li>
+
          </ul>
     </ul>
 </details>
