@@ -105,7 +105,6 @@ This github repository contains a collection of direct links to DFIR and IR rela
     <ul>
         <ul>
            <li><b><a href="https://github.com/YosfanEilay/AuthLogParser" target="_blank">AuthLogParser [Linux]</a></b><i></i></li>
-
          </ul>
     </ul>
 </details>
