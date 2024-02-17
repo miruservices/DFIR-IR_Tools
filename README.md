@@ -27,6 +27,10 @@ This github repository contains a collection of direct links to DFIR and IR rela
         <ul>
            <li><b><a href="https://yopass.se/">Yopass</a></b><i></i></li>
            <li><b><a href="https://gchq.github.io/CyberChef/">CyberChef</a></b><i></i></li>
+           <li><b><a href="https://crt.sh/">Cetifikatlogg</a></b><i></i></li>
+            <li><b><a href="https://archive.org/">Internet Archive</a></b><i></i></li>
+            <li><b><a href="https://www.reversewhois.io/">Reverse Whois Lookup</a></b><i></i></li>
+            <li><b><a href="https://viewdns.info/">viewdns.info</a></b><i> [Multiple tools]</i></li>
         </ul>
     </ul>
 </details>
@@ -51,6 +55,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
             <li><b><a href="https://getodin.com/search/hosts">Odin</a></b><i></i></li>
             <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
            <li><b><a href="https://www.shodan.io/">Shodan</a></b><i></i></li>
+           <li><b><a href="https://en.fofa.info/">FOFA</a></b><i></i></li>
          </ul>
     </ul>
 </details>
@@ -105,6 +110,14 @@ This github repository contains a collection of direct links to DFIR and IR rela
     <ul>
         <ul>
            <li><b><a href="https://github.com/YosfanEilay/AuthLogParser" target="_blank">AuthLogParser [Linux]</a></b><i></i></li>
+         </ul>
+    </ul>
+</details>
+<details open>
+    <summary><b>Leak</b></summary>
+    <ul>
+        <ul>
+           <li><b><a href=https://www.dehashed.com" target="_blank">Dehashed</a></b><i></i></li>
          </ul>
     </ul>
 </details>
