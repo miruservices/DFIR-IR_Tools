@@ -56,6 +56,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
             <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
            <li><b><a href="https://www.shodan.io/">Shodan</a></b><i></i></li>
            <li><b><a href="https://en.fofa.info/">FOFA</a></b><i></i></li>
+           <li><b><a href="https://hunter.how/">HUNTER</a></b><i></i></li>
          </ul>
     </ul>
 </details>
