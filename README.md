@@ -52,6 +52,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
             <li><b><a href="https://isc.sans.edu/ipinfo.html">SANS</a></b><i></i></li>
            <li><b><a href="https://analyze.intezer.com/">Intezer</a></b><i></i></li>
            <li><b><a href="https://www.virustotal.com/">Virustotal</a></b><i></i></li>
+            <li><b><a href="https://urlscan.io/">URLscan.io</a></b><i></i></li>
             <li><b><a href="https://getodin.com/search/hosts">Odin</a></b><i></i></li>
             <li><b><a href="https://search.censys.io/">Censys</a></b><i></i></li>
            <li><b><a href="https://www.shodan.io/">Shodan</a></b><i></i></li>
