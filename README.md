@@ -31,6 +31,7 @@ This github repository contains a collection of direct links to DFIR and IR rela
             <li><b><a href="https://archive.org/">Internet Archive</a></b><i></i></li>
             <li><b><a href="https://www.reversewhois.io/">Reverse Whois Lookup</a></b><i></i></li>
             <li><b><a href="https://viewdns.info/">viewdns.info</a></b><i> [Multiple tools]</i></li>
+            <li><b><a href="https://onion.ail-project.org/" target="_blank">onion-lookup</a></b><i> [Multiple tools]</i></li>
         </ul>
     </ul>
 </details>
